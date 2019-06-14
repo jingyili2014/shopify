@@ -1,0 +1,185 @@
+.nav-color {
+	color: #cccccc;
+	font-size: 1.1rem;
+}
+
+.nav-button {
+	padding: 0.7rem 1rem;
+	background-color: #6b64ee;
+	color: white;	
+	font-size: 1.1rem;
+	font-weight: bold;
+}
+
+.head-bg {
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./img/shopping-online.jpg);
+	background-size: cover;
+	background-position: center center;
+}
+
+.front-section .row {
+	height: 32rem;
+}
+
+.second-font {
+	font-size: 1.2rem;
+}
+
+.second-color-1 {
+	color: #6b64ee;
+}
+
+.second-color-2 {
+	color: #2f2f2f;
+}
+
+.second-color-3 {
+	color: #595959;
+}
+
+.earth-bg {
+	background-color: #f5f5fc;
+}
+
+.earth2-bg {
+	background-color: #000639;
+}
+
+.earth2-font {
+	font-size: 1.8rem;
+}
+
+img.earth2-img {
+	object-fit: cover;
+	object-position: center center;
+}
+
+.fourth-font {
+	font-size: 2.5rem;
+}
+
+.box-shadow {
+	box-shadow: 2px 3px 20px lightgrey;
+	/*width: 15.5em;*/
+}
+
+.fourth-link {
+	font-weight: bold;
+}
+
+.box-shadow:hover .fourth-link {
+	border-bottom: 2px solid #6b64ee;	
+}
+
+.box-shadow:hover {
+	text-decoration: none;
+	box-shadow: 2px 3px 70px lightgrey;
+	transition: 0.7s;
+}
+
+.back-to-top {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+
+.back-to-top:hover {
+	border-bottom: 2px solid black;
+	color: black;
+	text-decoration: none;
+}
+
+.footer-bg {
+	background-color: #000639;
+	background-size: cover;
+}
+
+.footer-nav {
+	border-bottom: 1px solid rgba(223, 227, 232, 0.1);
+	padding-bottom: 1.8rem;
+	margin-bottom: 0;
+}
+
+.footer-nav a {
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	padding-bottom: 1.8rem;
+	margin-bottom: 0;
+}
+
+.footer-nav a:hover {
+	border-bottom: 2px solid white;
+	transition: 0.2s;
+}
+
+.footer-title {
+	font-size: 0.9rem;
+	color: white;
+	font-weight: bold;
+}
+
+.footer-sublink {
+	padding-bottom: 1rem;
+	padding-left: 0;
+	font-size: 0.9rem;
+}
+
+.footer-sublink a {
+	display: block;
+	color: #637381;
+	text-decoration: none;
+	padding-bottom: 0.6rem;
+}
+
+.footer-sublink a:hover {
+	color: white;
+	transition: 0.3s;
+}
+
+.footer-bottom {
+	border-top: 1px solid rgba(223,227,232,0.1);
+}
+
+.footer-icon a {
+	display: inline-block;
+	color: white;
+	font-size: 1.2rem;
+}
+
+.footer-icon2 a{
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	padding-right: 1.2rem;
+}
+
+.header-menu a:hover {
+	color: white;
+}
+
+.nav-button:hover {
+	background-color: black;
+	color: white;
+	border: 1px solid #6b64ee;;
+}
+
+.header-button {
+	padding: 0.8rem 2.5rem;
+	border: 1.5px solid white;
+	border-radius: 5px;
+	margin: 2rem 1rem;
+	font-size: 1.3rem;
+	font-weight: bold;
+	color: white;
+}
+
+.header-button:hover {
+	background-color: white;
+	color: #00091a;
+}
+
+.header-font {
+	font-size: 3.5rem;
+}
